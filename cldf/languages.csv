@@ -1,11 +1,11 @@
-ID,name,glottocode,glottolog_name,iso,macroarea,family,source
-mixezoquean-nhm,North Highland Mixe,toto1305,,,,,Schoenhals1965
-mixezoquean-shm,South Highland Mixe,tlah1239,,,,,Cysouw2006
-mixezoquean-lm,Lowland Mixe,coat1238,,,,,Hoogshagen1993
-mixezoquean-sap,Sayula Popoluca,sayu1241,,,,,Clark1961
-mixezoquean-olp,Oluta Popoluca,olut1240,,,,,Clark1981
-mixezoquean-txp,Texistepec Zoque,texi1237,,,,,Wichmann2002
-mixezoquean-soz,Soteapan Zoque,high1276,,,,,Elson1999
-mixezoquean-chzmaria,Santa María Chimalapa Zoque,chim1300,,,,,Knudson1980
-mixezoquean-chzmiguel,San Miguel Chimalapa Zoque,chim1300,,,,,Johnson1998
-mixezoquean-chisz,Chiapas Zoque,copa1236,,,,,Harrison1981
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
+nhm,North Highland Mixe,toto1305,Totontepec Mixe,mto,North America,17.2157,-96.0179,Mixe-Zoque,Schoenhals1965
+shm,South Highland Mixe,tlah1239,Tlahuitoltepec Mixe,mxp,North America,16.9634,-96.1186,Mixe-Zoque,Cysouw2006
+lm,Lowland Mixe,coat1238,Coatlán Mixe,mco,North America,16.9404,-95.4659,Mixe-Zoque,Hoogshagen1993
+sap,Sayula Popoluca,sayu1241,Sayula Popoluca,pos,North America,17.8606,-94.9531,Mixe-Zoque,Clark1961
+olp,Oluta Popoluca,olut1240,Oluta Popoluca,plo,North America,17.8937,-94.8863,Mixe-Zoque,Clark1981
+txp,Texistepec Zoque,texi1237,Texistepec Popoluca,poq,North America,17.8926,-94.8076,Mixe-Zoque,Wichmann2002
+soz,Soteapan Zoque,high1276,Highland Popoluca,poi,North America,18.198,-94.9109,Mixe-Zoque,Elson1999
+chzmaria,Santa María Chimalapa Zoque,chim1300,Chimalapa Zoque,zoh,North America,16.6543,-94.6913,Mixe-Zoque,Knudson1980
+chzmiguel,San Miguel Chimalapa Zoque,chim1300,Chimalapa Zoque,zoh,North America,16.6543,-94.6913,Mixe-Zoque,Johnson1998
+chisz,Chiapas Zoque,copa1236,Copainalá Zoque,zoc,North America,17.2157,-93.3183,Mixe-Zoque,Harrison1981
