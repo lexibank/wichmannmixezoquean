@@ -1,14 +1,14 @@
-NAME,GLOTTOCODE,ABBREVIATION,NOTE,SOURCE
-Lowland Mixe,coat1238,LM,,Hoogshagen1993
-Midland Mixe,midl1241,MM,"Missing in the data, but mentioned in the classification given in the text.",
-South Highland Mixe,tlah1239,SHM,,Cysouw2006
-North Highland Mixe,toto1305,NHM,,Schoenhals1965
-Tapachultec,tapa1260,,"Missing in the data, but mentioned in the classification given in the text.",
-Oluta Popoluca,olut1240,OlP,,Clark1981
-Sayula Popoluca,sayu1241,SaP,,Clark1961
-Ayapa Zoque,taba1264,AyZ,"Missing in the data, but mentioned in the classification given in the text.",
-Texistepec Zoque,texi1237,TxP,"This is TxZ and TxP in the text, they obviously mean the same.",Wichmann2002
-Soteapan Zoque,high1276,SoZ,,Elson1999
-Santa María Chimalapa Zoque,chim1300,ChZ Maria,,Knudson1980
-San Miguel Chimalapa Zoque,chim1300,ChZ Miguel,,Johnson1998
-Chiapas Zoque,copa1236,ChisZ,,Harrison1981
+ID,Name,Glottocode,Abbreviation,Note,Source
+LowlandMixe,Lowland Mixe,coat1238,LM,,Hoogshagen1993
+MidlandMixe,Midland Mixe,midl1241,MM,"Missing in the data, but mentioned in the classification given in the text.",
+SouthHighlandMixe,South Highland Mixe,tlah1239,SHM,,Cysouw2006
+NorthHighlandMixe,North Highland Mixe,toto1305,NHM,,Schoenhals1965
+Tapachultec,Tapachultec,tapa1260,,"Missing in the data, but mentioned in the classification given in the text.",
+OlutaPopoluca,Oluta Popoluca,olut1240,OlP,,Clark1981
+SayulaPopoluca,Sayula Popoluca,sayu1241,SaP,,Clark1961
+AyapaZoque,Ayapa Zoque,taba1264,AyZ,"Missing in the data, but mentioned in the classification given in the text.",
+TexistepecZoque,Texistepec Zoque,texi1237,TxP,"This is TxZ and TxP in the text, they obviously mean the same.",Wichmann2002
+SoteapanZoque,Soteapan Zoque,high1276,SoZ,,Elson1999
+SantaMariaChimalapaZoque,Santa María Chimalapa Zoque,chim1300,ChZ Maria,,Knudson1980
+SanMiguelChimalapaZoque,San Miguel Chimalapa Zoque,chim1300,ChZ Miguel,,Johnson1998
+ChiapasZoque,Chiapas Zoque,copa1236,ChisZ,,Harrison1981
