@@ -1,10 +1,13 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Cysouw, M., Wichmann, S., & Kamholz, D. (2006). A critique of the separation base method for genealogical subgrouping, with data from mixe-zoquean. Journal of Quantitative Linguistics, 13(2-3), 225\u2013264. doi:10.1080/09296170600850759",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Wichmann's dataset of Mixe-Zoquean as used in Cysouw 2006",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Cysouw-2006-110"
     ],
+    "dc:identifier": "https://doi.org/10.1080/09296170600850759",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
@@ -16,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wichmannmixezoquean",
-            "dc:created": "24379e0"
+            "dc:created": "04ee682"
         },
         {
             "rdf:type": "prov:Entity",

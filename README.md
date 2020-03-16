@@ -1,6 +1,15 @@
 # Lexicostatistical Dataset of Mixe-Zoquean
 
+Cite the source dataset as
+
+> Cysouw, M., Wichmann, S., & Kamholz, D. (2006). A critique of the separation base method for genealogical subgrouping, with data from mixe-zoquean. Journal of Quantitative Linguistics, 13(2-3), 225–264. doi:10.1080/09296170600850759
+
+
+Wichmann's dataset of Mixe-Zoquean as used in Cysouw 2006
+
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
+Available online at https://doi.org/10.1080/09296170600850759
 
 
 Conceptlists in Concepticon:
