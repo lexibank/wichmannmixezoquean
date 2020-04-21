@@ -1,6 +1,6 @@
 {
     "id": "wichmannmixezoquean",
-    "title": "Lexicostatistical Dataset of Mixe-Zoquean",
+    "title": "CLDF dataset derived from Wichmann's \"Lexicostatistical Dataset of Mixe-Zoquean\" from 2006",
     "description": "Wichmann's dataset of Mixe-Zoquean as used in Cysouw 2006",
     "license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "url": "https://doi.org/10.1080/09296170600850759",
