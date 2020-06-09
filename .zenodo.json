@@ -1,0 +1,35 @@
+{
+    "title": "CLDF dataset derived from Wichmann's \"Lexicostatistical Dataset of Mixe-Zoquean\" from 2006",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "S\u00f8ren Wichmann"
+        },
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "S\u00f8ren Wichmann",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Cysouw, M., Wichmann, S., &amp; Kamholz, D. (2006). A critique of the separation base method for genealogical subgrouping, with data from mixe-zoquean. Journal of Quantitative Linguistics, 13(2-3), 225\u2013264. doi:10.1080/09296170600850759</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

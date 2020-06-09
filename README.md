@@ -1,4 +1,4 @@
-# Lexicostatistical Dataset of Mixe-Zoquean
+# CLDF dataset derived from Wichmann's "Lexicostatistical Dataset of Mixe-Zoquean" from 2006
 
 Cite the source dataset as
 
@@ -38,8 +38,10 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
- | @ | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Søren Wichmann | | data collection | Author, DataCollector
+Johann-Mattis List | @lingulist | maintainer | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Author
 
 
