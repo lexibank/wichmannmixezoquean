@@ -19,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wichmannmixezoquean",
-            "dc:created": "7dd8fd4"
+            "dc:created": "3c9c6d9"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,7 +31,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-117-g24f4524"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
