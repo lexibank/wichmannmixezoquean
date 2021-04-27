@@ -7,7 +7,7 @@ Cite the source dataset as
 
 Wichmann's dataset of Mixe-Zoquean as used in Cysouw 2006
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1080/09296170600850759
 
@@ -17,7 +17,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/wichmannmixezoquean.svg?branch=master)](https://travis-ci.org/lexibank/wichmannmixezoquean)
+[![CLDF validation](https://github.com/lexibank/wichmannmixezoquean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wichmannmixezoquean/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -41,7 +41,7 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Søren Wichmann | | data collection | Author, DataCollector
-Johann-Mattis List | @lingulist | maintainer | Author
-Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Author
+Johann-Mattis List | @lingulist | maintainer | Other
+Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Other
 
 
