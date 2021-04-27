@@ -2,10 +2,9 @@ from pathlib import Path
 
 import attr
 from clldutils.misc import slug
-
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Language as BaseLanguage
 from pylexibank import FormSpec
+from pylexibank import Language as BaseLanguage
 
 
 @attr.s
@@ -21,35 +20,36 @@ class Dataset(BaseDataset):
     id = "wichmannmixezoquean"
     language_class = CustomLanguage
 
-    form_spec = FormSpec(
-        brackets={"(": ")", "[": "]"},
-        separators=",~",
-        missing_data=("?", "-"),
-    )
+    form_spec = FormSpec(brackets={"(": ")", "[": "]"}, separators=",~", missing_data=("?", "-"))
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
-        
-        languages = args.writer.add_languages(
-            lookup_factory=lambda l: l['Abbreviation']
-        )
+
+        languages = args.writer.add_languages(lookup_factory=lambda l: l["Abbreviation"])
 
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
-            lookup_factory="Name"
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
         # add multiple forms
-        concepts.update({
-            # note the mishmash of different dashes etc handled here.
-            'hair - 1': '36_hair', 'hair - 2': '36_hair',
-            'see - 1': '72_see', 'see - 2': '72_see',
-            'stand - 1': '79_stand', 'stand - 2': '79_stand', 'stand -2': '79_stand',
-            'walk/go - 1': '92_walkgo', 'walk/go - 2': '92_walkgo',
-            'worm - 1': '109_worm', 'worm – 2': '109_worm', 'worm - 2': '109_worm',
-            
-        })
-        
-        sources = {l['Abbreviation']: l['Source'] for l in self.languages}
+        concepts.update(
+            {
+                # note the mishmash of different dashes etc handled here.
+                "hair - 1": "36_hair",
+                "hair - 2": "36_hair",
+                "see - 1": "72_see",
+                "see - 2": "72_see",
+                "stand - 1": "79_stand",
+                "stand - 2": "79_stand",
+                "stand -2": "79_stand",
+                "walk/go - 1": "92_walkgo",
+                "walk/go - 2": "92_walkgo",
+                "worm - 1": "109_worm",
+                "worm – 2": "109_worm",
+                "worm - 2": "109_worm",
+            }
+        )
+
+        sources = {l["Abbreviation"]: l["Source"] for l in self.languages}
 
         data = zip(
             self.raw_dir.read_csv("Wordlist.txt", delimiter="\t"),
@@ -70,7 +70,7 @@ class Dataset(BaseDataset):
                         else:
                             cogid = str(cogidx)
                             cogidx += 1
-                        
+
                         for row in args.writer.add_forms_from_value(
                             Language_ID=languages[lang_abbrev],
                             Parameter_ID=concept_id,
