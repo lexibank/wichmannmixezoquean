@@ -19,13 +19,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wichmannmixezoquean",
-            "dc:created": "9913a0a"
+            "dc:created": "4d8e92b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,14 +36,14 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0"
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
