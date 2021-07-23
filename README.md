@@ -1,8 +1,15 @@
 # CLDF dataset derived from Wichmann's "Lexicostatistical Dataset of Mixe-Zoquean" from 2006
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/wichmannmixezoquean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wichmannmixezoquean/actions?query=workflow%3ACLDF-validation)
 
-> Cysouw, M., Wichmann, S., & Kamholz, D. (2006). A critique of the separation base method for genealogical subgrouping, with data from mixe-zoquean. Journal of Quantitative Linguistics, 13(2-3), 225–264. doi:10.1080/09296170600850759
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Cysouw, M., Wichmann, S., & Kamholz, D. (2006). A critique of the separation base method for genealogical subgrouping, with data from mixe-zoquean. Journal of Quantitative Linguistics, 13(2-3), 225–264. doi:10.1080/09296170600850759
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
 
 
 Wichmann's dataset of Mixe-Zoquean as used in Cysouw 2006
@@ -45,3 +52,10 @@ Johann-Mattis List | @lingulist | maintainer | Other
 Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
