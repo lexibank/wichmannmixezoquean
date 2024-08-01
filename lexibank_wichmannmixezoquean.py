@@ -18,6 +18,8 @@ class CustomLanguage(BaseLanguage):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "wichmannmixezoquean"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     language_class = CustomLanguage
 
     form_spec = FormSpec(brackets={"(": ")", "[": "]"}, separators=",~", missing_data=("?", "-"))
