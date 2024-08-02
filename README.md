@@ -31,8 +31,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 110
+- **Varieties:** 10 (linked to 9 different Glottocodes)
+- **Concepts:** 110 (linked to 110 different Concepticon concept sets)
 - **Lexemes:** 1,106
 - **Sources:** 10
 - **Synonymy:** 1.04
@@ -40,7 +40,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.23
 - **Invalid lexemes:** 0
 - **Tokens:** 4,857
-- **Segments:** 47 (0 BIPA errors, 0 CTLS sound class errors, 47 CLTS modified)
+- **Segments:** 47 (0 BIPA errors, 0 CLTS sound class errors, 47 CLTS modified)
 - **Inventory size (avg):** 27.60
 
 # Contributors
@@ -48,8 +48,9 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Søren Wichmann | | data collection | Author, DataCollector
-Johann-Mattis List | @lingulist | maintainer | Other
-Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Other
+Johann-Mattis List | @lingulist | maintainer | Editor
+Simon J. Greenhill | @SimonGreenhill | maintainer, patron | Editor
+
 
 
 
